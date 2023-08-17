@@ -13,7 +13,7 @@ Built a small home network in Packet Tracer. In this project I added NIC to comp
 <h2>Screenshots:</h2>
 
 <p align="center">
-Allowed Locations : <br/>
+Diagram : <br/>
 <img src="https://i.imgur.com/Fwx7Zqm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
