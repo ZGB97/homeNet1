@@ -29,7 +29,7 @@ Validation Passed: <br/>
 <img src="https://i.imgur.com/uTLZgBE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Successfully deleted the resources:  <br/>
+Successful connectivity:  <br/>
 <img src="https://i.imgur.com/ytdvjSf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
