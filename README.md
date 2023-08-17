@@ -21,11 +21,11 @@ Created an Allowed Locations policy assignment:  <br/>
 <img src="https://i.imgur.com/22kutkA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Validation Failed: <br/>
+Determine the IP address of the PC: <br/>
 <img src="https://i.imgur.com/QIfwlLE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Validation Passed: <br/>
+Determine the IP address of the Labtop: <br/>
 <img src="https://i.imgur.com/uTLZgBE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
